@@ -40,5 +40,4 @@ streamlit run app.py
 - 🌙 Beautiful dark UI with modern design
 
 ## 👤 Author
-Built by [Your Name] — Data Scientist  
-🔗 [Fiverr Profile](https://fiverr.com/yourprofile)
+Built by [somaan khan] — Data Scientist 
