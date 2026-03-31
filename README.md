@@ -40,4 +40,4 @@ streamlit run app.py
 - 🌙 Beautiful dark UI with modern design
 
 ## 👤 Author
-Built by [somaan khan] — Data Scientist 
+Built by somaan khan — Data Scientist 
